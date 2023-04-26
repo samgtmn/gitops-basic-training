@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: new-cm
   namespace: myapp
- data:
-   setting: value
+data:
+  setting: value
